@@ -23,8 +23,7 @@
 
 - git checkout main
 - git rebase main
+# Remover si hay error la carpeta rebase-merge en \.git
 
 # Remover todo lo de github
 - Control Panel\User Accounts\Credential Manager
-
-# Remover si hay error la carpeta rebase-merge en \.git
