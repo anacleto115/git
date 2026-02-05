@@ -1,0 +1,42 @@
+<html>
+	<head>
+        <link rel="stylesheet" 
+            type="text/css" 
+            href="index.css" />
+        <script src="index.js" defer></script>
+	</head>
+	<body>
+		<center>
+			<h1>Mi página</h1>
+
+			<br />
+			<label>Nombre: </label>
+			<input id="lbNombre"
+				type="text" />
+			<br />
+
+			<input type="submit" 
+				value="Buscar"
+				onclick="btBuscar(); return false;">
+			<input type="submit" 
+				value="Limpiar"
+				onclick="btLimpiar(); return false;">
+			<br />
+			
+			<br />
+			<table class="tables">
+				<tr>
+					<th>Nombre</th>
+					<th>Acción</th>
+				</tr>
+                <tbody id="tb_body">
+
+                </tbody>
+			</table> 
+			<br />
+
+			<img src="image.jpg"
+				style="width: 150px; height: 100px;" />
+		</center>
+	</body>
+</html>
