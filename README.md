@@ -23,6 +23,7 @@
 
 - git checkout main
 - git rebase main
+
 Nota: Remover si hay error la carpeta rebase-merge en \.git
 
 # Remover todo lo de github
