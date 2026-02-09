@@ -1,4 +1,4 @@
-# Código y Commandos git base para estudiantes
+# Código y Comandos git base para estudiantes
 - git clone URL 
 
 # Descargar cambios
